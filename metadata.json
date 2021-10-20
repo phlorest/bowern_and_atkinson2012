@@ -1,0 +1,20 @@
+{
+    "id": "bowern_and_atkinson2012",
+    "title": null,
+    "description": null,
+    "license": null,
+    "url": "https://doi.org/10.1353/lan.2012.0081",
+    "citation": "Bowern C & Atkinson QD. 2012. Computational phylogenetics and the internal structure of Pama-Nyungan. Language, 88(4), 817-845.",
+    "name": "Pama-Nyungen (Bowern and Atkinson 2012)",
+    "author": "Bowern & Atkinson",
+    "year": 2012,
+    "scaling": "years",
+    "analysis": "bayesian",
+    "family": "pama1250",
+    "cldf": "https://github.com/lexibank/bowernpny",
+    "missing": {
+        "posterior": "not published, superseded by bouckaert_et_al2018",
+        "nexus": "not published, superseded by bouckaert_et_al2018",
+        "characters": "not published, superseded by bouckaert_et_al2018"
+    }
+}
