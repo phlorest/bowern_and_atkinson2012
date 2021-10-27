@@ -1,23 +1,24 @@
-# Pama-Nyungen (Bowern and Atkinson 2012):
+# Dataset bowern_and_atkinson2012
 
-```
-Bowern C & Atkinson QD. 2012. Computational phylogenetics and the internal structure of Pama-Nyungan. Language, 88(4), 817-845.
-```
+## How to cite
 
-* ID: bowern_and_atkinson2012:
-* URL: [https://doi.org/10.1353/lan.2012.0081](https://doi.org/10.1353/lan.2012.0081)
-* Paper: [paper](paper)
-* Original Files: [original](original)
-* Scaling: years
-* Taxa: 194 taxa 
-* Data: [data](data)
-* Nexus: None
-* Character Specification: None
-* Summary Tree: [summary.trees](summary.trees)
-* Posterior Probability Distribution: None
+If you use these data please cite
+- the original source
+  > Bowern C & Atkinson QD. 2012. Computational phylogenetics and the internal structure of Pama-Nyungan. Language, 88(4), 817-845.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-## Errors:
+## Description
 
-* missing nexus
-* missing characters
-* missing posterior
+
+Available online at https://doi.org/10.1353/lan.2012.0081
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
+## Summary Tree
+
+![summary](./summary_tree.svg)

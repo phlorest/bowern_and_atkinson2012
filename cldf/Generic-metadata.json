@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-bowern_and_atkinson2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "56f3dc3",
+            "dc:created": "30aec94",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-36-g7235e0249f",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
@@ -42,6 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "The LanguageTable lists the taxa, i.e. the leafs of the phylogeny, mapped to languoids.",
             "dc:extent": 194,
             "tableSchema": {
                 "columns": [
@@ -104,6 +105,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
                     }
                 ],
                 "primaryKey": [
