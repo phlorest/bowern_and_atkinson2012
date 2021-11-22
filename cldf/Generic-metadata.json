@@ -9,12 +9,12 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1353/lan.2012.0081",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-bowern_and_atkinson2012",
+    "dcat:accessURL": "https://github.com/phlorest/bowern_and_atkinson2012",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-bowern_and_atkinson2012",
+            "rdf:about": "https://github.com/phlorest/bowern_and_atkinson2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "30aec94",
+            "dc:created": "7d55b98",
             "dc:title": "Repository"
         },
         {
