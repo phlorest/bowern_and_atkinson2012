@@ -9,9 +9,7 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.raw_dir / 'bowern_and_atkinson2011.mcct.trees',
-                nex,
-                'summary')
+        args.writer.add_summary(
+            self.raw_dir.read_tree('bowern_and_atkinson2011.mcct.trees'),
+            self.metadata,
+            args.log)

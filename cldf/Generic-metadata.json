@@ -26,7 +26,7 @@
         {
             "rdf:about": "https://github.com/phlorest/bowern_and_atkinson2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "1468e1f",
+            "dc:created": "ee568c4",
             "dc:title": "Repository"
         },
         {
@@ -39,7 +39,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
