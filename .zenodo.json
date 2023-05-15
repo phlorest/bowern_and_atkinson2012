@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Bowern & Atkinson 2012 'Pama-Nyungen (Bowern and Atkinson 2012)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,20 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Claire Bowern"
+        },
+        {
+            "name": "Quentin Atkinson"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }

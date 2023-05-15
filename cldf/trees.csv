@@ -1,2 +1,2 @@
-ID,Name,Nexus_File,rooted,type,method,scaling,Source
-summary,TREE1,summary.trees,,summary,bayesian,years,Bowern2012
+ID,Name,Description,Tree_Is_Rooted,Tree_Type,Tree_Branch_Length_Unit,Media_ID,Source
+summary,summary,bayesian,,summary,years,summary,Bowern2012
