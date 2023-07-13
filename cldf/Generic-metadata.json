@@ -26,13 +26,13 @@
         {
             "rdf:about": "https://github.com/phlorest/bowern_and_atkinson2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "792016f",
+            "dc:created": "360a1f6",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
