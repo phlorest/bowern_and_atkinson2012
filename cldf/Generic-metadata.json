@@ -19,14 +19,15 @@
     "dcat:accessURL": "https://github.com/phlorest/bowern_and_atkinson2012",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/bowernpny",
+            "rdf:about": "https://doi.org/10.5281/zenodo.1312841",
             "rdf:type": "prov:Entity",
-            "dc:description": "Dataset underlying the analysis"
+            "dc:description": "The CLDF dataset from which the data underlying the analysis was derived",
+            "dc:format": "https://cldf.clld.org"
         },
         {
             "rdf:about": "https://github.com/phlorest/bowern_and_atkinson2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "98401c4",
+            "dc:created": "c7fdb19",
             "dc:title": "Repository"
         },
         {

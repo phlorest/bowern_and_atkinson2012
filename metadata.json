@@ -9,7 +9,7 @@
     "scaling": "years",
     "analysis": "bayesian",
     "family": "Pama-Nyungan",
-    "cldf": "https://github.com/lexibank/bowernpny",
+    "cldf": "https://doi.org/10.5281/zenodo.1312841",
     "missing": {
         "posterior": "not published, superseded by bouckaert_et_al2018",
         "nexus": "not published, superseded by bouckaert_et_al2018",
