@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Bowern & Atkinson 2012 'Pama-Nyungen (Bowern and Atkinson 2012)'
+# Phlorest phylogeny derived from Bowern & Atkinson 2012 'Computational phylogenetics and the internal structure of Pama-Nyungan'
 
 [![CLDF validation](https://github.com/phlorest/bowern_and_atkinson2012/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bowern_and_atkinson2012/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Pama-Nyungan language family computed from a bayesian analysis scaled by years.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1353/lan.2012.0081
+Source available online at https://doi.org/10.1353/lan.2012.0081
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/bowern_and_atkinson2012/main/summary_tree.svg)
