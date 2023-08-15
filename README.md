@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Bowern & Atkinson 2012 'Computational phylogenetics and the internal structure of Pama-Nyungan'
 
 [![CLDF validation](https://github.com/phlorest/bowern_and_atkinson2012/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bowern_and_atkinson2012/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8249977.svg)](https://doi.org/10.5281/zenodo.8249977)
 
 ## How to cite
 
