@@ -2,17 +2,17 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Na
 Adnyamathanha,Adnyamathanha,,-30.1451,138.671,adny1235,,,Adnyamathanha
 AghuTharrnggala,AghuTharrnggala,,-13.735,142.426,aghu1254,,,Aghu Tharnggalu
 Alyawarr,Alyawarr,,-21.0427,136.835,alya1239,,xd964,Alyawarr
-Aminungo,Aminungo,,,,east2716,,,Eastern Maric
+Aminungo,Aminungo,,-20.1494,146.67,biri1256,,,Biri
 Antekerrepenhe,Antekerrepenhe,,-23.3583,135.046,east2379,,,Eastern Arrernte
 Arabana,Arabana,,-28.705,135.449,arab1267,,,Arabana
 Awabakal,Awabakal,,-33.12847,151.43555,awab1243,,,Awabakal
 Badimaya,Badimaya,,-29.0647,117.246,badi1246,,,Badimaya
 Badjiri,Badjiri,,-28.79,145.47,badj1244,,,Badjirri
-Bandjalang,Bandjalang,,-28.3458,152.859,band1339,,xd966,Bandjalangic
-Batyala,Batyala,,,,east2717,,,Eastern Waka-Kabic
+Bandjalang,Bandjalang,,,,band1358,,xd966,Bandjalang
+Batyala,Batyala,,-25.44486,153.15399,baty1234,,,Butchulla
 BidyaraGungabula,BidyaraGungabula,,-25.6896,148.604,gung1248,,,Gungabula
 Bilinarra,Bilinarra,,-15.4661,130.651,ngar1235,,,Ngarinman
-Bindal,Bindal,,,,bind1237,,,Bindalic
+Bindal,Bindal,,-19.409007,147.002766,bind1236,,,Bindal-Mount Elliot
 Biri,Biri,,-20.1494,146.67,biri1256,,,Biri
 Birrpayi,Birrpayi,,-33.52925837,150.3490464,sydn1236,,,Sydney
 Bularnu,Bularnu,,-21.02656922,138.1566659,bula1255,,,Bularnu
@@ -38,7 +38,7 @@ Durubul,Durubul,,-27.87647555,152.4602773,yaga1256,,xd961,Yagara-Jandai
 Duungidjawu,Duungidjawu,,-25.3987,152.345,duun1241,,xd962,Duungidjawu
 Dyirbal,Dyirbal,,-17.4516,145.544,dyir1250,,xd954 xd957,Dyirbal
 FlindersIsland,FlindersIsland,,-14.1812,144.259,flin1247,,xd947,Flinders Island
-Gairi,Gairi,,,,,,,
+Gairi,Gairi,,-23.90399,148.08148,gayi1238,,,Gayiri
 Gamilaraay,Gamilaraay,,-29.9037,149.543,gami1243,,,Yuwaalaraay-Gamilaraay
 Gangulu,Gangulu,,-22.7637,149.416,gang1268,,,Gangulu
 Garlali,Garlali,,-28.136,143.929,kala1380,,,Bulloo River
@@ -92,7 +92,7 @@ MangalaMcK,MangalaMcK,,-18.6597,123.769,mang1383,,,Mangala
 MangalaNW,MangalaNW,,-18.6597,123.769,mang1383,,,Mangala
 Margany,Margany,,-26.789,144.892,marg1253,,,Margany
 MartuWangka,MartuWangka,,-22.51763,123.84021,many1256,,xd958,Manyjilyjara
-MaryRiverandBunyaBunyaCountry,MaryRiverandBunyaBunyaCountry,,,,east2717,,,Eastern Waka-Kabic
+MaryRiverandBunyaBunyaCountry,MaryRiverandBunyaBunyaCountry,,-25.44486229,153.1539929,kabi1260,,,Kabikabi
 MathiMathi,MathiMathi,,-34.13829932,143.6694397,west2443,,,Western Victoria
 MayiKulan,MayiKulan,,-20.4352,140.481,mayk1239,,,Maykulan
 MayiKutuna,MayiKutuna,,-18.1147,140.337,maya1280,,,Mayaguduna
@@ -100,8 +100,8 @@ MayiThakurti,MayiThakurti,,-20.4352,140.481,mayk1239,,,Maykulan
 MayiYapi,MayiYapi,,-20.4352,140.481,mayk1239,,,Maykulan
 Mbabaram,Mbabaram,,-20.1389,143.438,mbab1239,,,Mbabaram
 Mbakwithi,Mbakwithi,,-12.395,141.755,angu1242,,,Anguthimri
-Minjungbal,Minjungbal,,-28.3458,152.859,band1339,,,Bandjalangic
-Mirniny,Mirniny,,,,mirn1243,,,Mirning
+Minjungbal,Minjungbal,,,,minj1242,,,Minjangbal
+Mirniny,Mirniny,,-31.29733,130.05272,mirn1245,,,Mirniny
 Mithaka,Mithaka,,-25.13606725,139.598447,mith1236,,,Mithaka
 MountFreelingDiyari,MountFreelingDiyari,,-28.1667,138.0,dier1241,,,Dieri
 Mudburra,Mudburra,,-16.7694,132.329,mudb1240,,,Mudburra
@@ -124,7 +124,7 @@ NggoiMwoi,NggoiMwoi,,-28.3458,152.859,band1339,,,Bandjalangic
 Ngiyambaa,Ngiyambaa,,-30.6481,146.18,wang1291,,xd784,Ngiyambaa
 Ngunawal,Ngunawal,,-34.85,149.1,nort2760,,,Northern Inland Yuin
 Nhanta,Nhanta,,-27.42523643,114.2680442,nhan1238,,,Nhanda
-Nhirrpi,Nhirrpi,,,,yand1252,,,Yandruwandhic
+Nhirrpi,Nhirrpi,,-28.62911,141.27596,nhir1234,,,Nhirrpi
 NorthernMangarla,NorthernMangarla,,-18.6597,123.769,mang1383,,,Mangala
 NorthernNyangumarta,NorthernNyangumarta,,-20.6271,121.391,nyan1301,,,Nyangumarta
 Nyamal,Nyamal,,-21.6092,119.693,nyam1271,,,Nyamal
@@ -140,7 +140,7 @@ Piangil,Piangil,,-34.13829932,143.6694397,west2443,,,Western Victoria
 PintupiLuritja,PintupiLuritja,,-23.2963,130.643,pint1250,,xd960,Pintupi-Luritja
 Pirriya,Pirriya,,-25.48006595,142.5485119,pirr1240,,,Pirriya
 Pitjantjatjara,Pitjantjatjara,,-26.9704,131.357,pitj1243,,xd967,Pitjantjatjara
-PittaPitta,PittaPitta,,,,pitt1246,,,Pitta-Pitta
+PittaPitta,PittaPitta,,-22.7952,139.983,pitt1247,,,Pitta Pitta
 Rirratjingu,Rirratjingu,,,,rirr1238,,,Rirratjingu
 Ritharrngu,Ritharrngu,,-13.4559,135.259,rita1239,,,Ritharrngu
 SouthernWalmajarri,SouthernWalmajarri,,-19.7229,126.113,walm1241,,,Walmajarri-Juwaliny
@@ -154,7 +154,7 @@ WalmajarriBilliluna,WalmajarriBilliluna,,-19.7229,126.113,walm1241,,,Walmajarri-
 WalmajarriHR,WalmajarriHR,,-19.7229,126.113,walm1241,,,Walmajarri-Juwaliny
 WalmajarriNW,WalmajarriNW,,-19.7229,126.113,walm1241,,,Walmajarri-Juwaliny
 Wangkangurru,Wangkangurru,,-25.8148,135.941,wang1290,,,Wangganguru
-Wangkatja,Wangkatja,,,,wang1300,,,Wangkatja-Tjarra
+Wangkatja,Wangkatja,,-29.806,127.632,pint1251,,,Pintiini
 Wangkayutyuru,Wangkayutyuru,,-24.7022,137.433,wang1289,,,Wanggamala
 Wangkumara,Wangkumara,,-27.10149,143.19619,wong1246,,,Wangkumara
 WangkumaraMcDWur,WangkumaraMcDWur,,-27.10149,143.19619,wong1246,,,Wangkumara
@@ -182,12 +182,12 @@ Yalarnnga,Yalarnnga,,-21.731,139.511,yala1262,,,Yalarnnga
 Yandruwandha,Yandruwandha,,-28.4744,140.583,yand1253,,,Yandruwandha
 Yannhangu,Yannhangu,,-12.0853,134.877,yann1237,,,Nhangu
 Yanyuwa,Yanyuwa,,-15.7621,136.055,yany1243,,,Yanyuwa
-Yarluyandi,Yarluyandi,,,,dier1240,,,Dieric
+Yarluyandi,Yarluyandi,,-25.83705,139.58436,yarl1238,,,Yarluyandi
 Yawarrawarrka,Yawarrawarrka,,-26.7334,140.871,yawa1258,,,Yawarawarga
 Yidiny,Yidiny,,-17.1332,145.876,yidi1250,,,Yidiñ
 Yindjibarndi,Yindjibarndi,,-21.5379,117.001,yind1247,,,Yindjibarndi
 Yindjilandji,Yindjilandji,,-19.24252,137.5894,yind1248,,,Yindjilandji
-Yiningay,Yiningay,,,,sout2765,,,Southern Maric
+Yiningay,Yiningay,,-25.192664,147.273359,bidy1243,,,Bidyara
 Yirandali,Yirandali,,-20.65810118,143.9625916,yira1239,,,Yirandhali
 YortaYorta,YortaYorta,,-35.9,145.01,yort1237,,,Yorta Yorta
 Yugambeh,Yugambeh,,,,yugu1249,,,Yugumbir
