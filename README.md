@@ -12,7 +12,7 @@ If you use these data please cite
 
 ## Description
 
-A [Phlorest phylogeny](https://github.com/phlorest) of the Pama-Nyungan language family computed from a bayesian analysis scaled by years.
+A [Phlorest phylogeny](https://github.com/phlorest) of the Pama-Nyungan language family computed from a bayesian analysis scaled by arbitrary.
 
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
@@ -25,7 +25,8 @@ Source available online at https://doi.org/10.1353/lan.2012.0081
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
-
 ## Summary Tree
 
 ![summary](https://raw.githubusercontent.com/phlorest/bowern_and_atkinson2012/main/summary_tree.svg)
+
+[Summary tree visualized with IcyTree](https://icytree.org/?url=https://raw.githubusercontent.com/phlorest/bowern_and_atkinson2012/refs/heads/main/cldf/summary.trees)

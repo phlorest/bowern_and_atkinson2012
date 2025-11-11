@@ -12,10 +12,10 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.1353/lan.2012.0081
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Pama-Nyungan</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>years</dd></dl>
+[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Pama-Nyungan</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>arbitrary</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/bowern_and_atkinson2012
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://doi.org/10.5281/zenodo.1312841">https://doi.org/10.5281/zenodo.1312841 </a></li><li><a href="https://github.com/phlorest/bowern_and_atkinson2012/tree/9855e96">phlorest/bowern_and_atkinson2012 v1.1-2-g9855e96</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.13.1</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://doi.org/10.5281/zenodo.1312841">https://doi.org/10.5281/zenodo.1312841 </a></li><li><a href="https://github.com/phlorest/bowern_and_atkinson2012/tree/f5794db">phlorest/bowern_and_atkinson2012 v1.1-4-gf5794db</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | bowern_and_atkinson2012
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
